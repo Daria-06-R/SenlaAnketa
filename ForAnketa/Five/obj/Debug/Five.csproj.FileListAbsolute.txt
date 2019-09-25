@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Five\bin\Debug\Five.exe.config
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Five\bin\Debug\Five.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Five\bin\Debug\Five.pdb
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Five\obj\Debug\Five.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Five\obj\Debug\Five.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Five\obj\Debug\Five.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Five\obj\Debug\Five.pdb

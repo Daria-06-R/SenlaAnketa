@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\NOK_NOD\bin\Debug\NOK_NOD.exe.config
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\NOK_NOD\bin\Debug\NOK_NOD.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\NOK_NOD\bin\Debug\NOK_NOD.pdb
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\NOK_NOD\obj\Debug\NOK_NOD.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\NOK_NOD\obj\Debug\NOK_NOD.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\NOK_NOD\obj\Debug\NOK_NOD.pdb
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\NOK_NOD\obj\Debug\NOK_NOD.csprojAssemblyReference.cache

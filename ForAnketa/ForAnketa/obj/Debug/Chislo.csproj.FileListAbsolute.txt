@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\ForAnketa\bin\Debug\ForAnketa.exe.config
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\ForAnketa\bin\Debug\ForAnketa.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\ForAnketa\bin\Debug\ForAnketa.pdb
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\ForAnketa\obj\Debug\Chislo.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\ForAnketa\obj\Debug\Chislo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\ForAnketa\obj\Debug\ForAnketa.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\ForAnketa\obj\Debug\ForAnketa.pdb

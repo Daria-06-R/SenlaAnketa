@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\BackPack\bin\Debug\BackPack.exe.config
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\BackPack\bin\Debug\BackPack.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\BackPack\bin\Debug\BackPack.pdb
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\BackPack\obj\Debug\BackPack.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\BackPack\obj\Debug\BackPack.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\BackPack\obj\Debug\BackPack.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\BackPack\obj\Debug\BackPack.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Three\bin\Debug\Three.exe.config
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Three\bin\Debug\Three.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Three\bin\Debug\Three.pdb
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Three\obj\Debug\Three.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Three\obj\Debug\Three.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Three\obj\Debug\Three.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Three\obj\Debug\Three.pdb

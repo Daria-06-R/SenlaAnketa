@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Four\bin\Debug\Four.exe.config
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Four\bin\Debug\Four.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Four\bin\Debug\Four.pdb
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Four\obj\Debug\Four.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Four\obj\Debug\Four.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Four\obj\Debug\Four.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Four\obj\Debug\Four.pdb

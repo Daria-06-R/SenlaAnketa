@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Six_Backpack\bin\Debug\Six_Backpack.exe.config
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Six_Backpack\bin\Debug\Six_Backpack.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Six_Backpack\bin\Debug\Six_Backpack.pdb
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Six_Backpack\obj\Debug\Six_Backpack.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Six_Backpack\obj\Debug\Six_Backpack.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Six_Backpack\obj\Debug\Six_Backpack.exe
+C:\Users\Lenovo\Downloads\Магистратура\ForAnketa\Six_Backpack\obj\Debug\Six_Backpack.pdb
